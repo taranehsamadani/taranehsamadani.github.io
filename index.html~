@@ -21,11 +21,11 @@
       <main>
         <div class="recipe a">
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-1.png" />
-          <h2>CHOCOLATE MOUSSE</h2>
+          <h2>iPads: the new pencil and paper?</h2>
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/time.svg" class="time" />
           <p class="mins">20 mins</p>
           <p class="description">
-            This delicious chocolate mousse will delight dinner guests of all ages!</p>
+            As a college student I am seeing iPads everywhere. It seems like everyone has made the jump to using an iPad for notes rather than the traditional notebook. My question is...are they all that? </p>
         </div>
         <div class="recipe b">
           <img src="https://content.codecademy.com/courses/learn-css-grid/lesson-ii/image-2.png" />
