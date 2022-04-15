@@ -12,7 +12,7 @@ header, footer {
   background-color: #ffa500;
   text-align: left;
   /*min-width: 500px;*/
-  font-family: Work Sans;
+  font-family: 'Space Grotesk', sans-serif;
   color: #fff;
   min-height: 50vh;
   display: flex;
@@ -61,7 +61,7 @@ img {
 .bio {
   color: #ffffff;
   font-size: 24px;
-  font-family: 'Work Sans';
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 .buttonBox {
   display: flex;
@@ -110,7 +110,7 @@ img {
 
 .mins {
   display: inline-block;
-  font-family: Poppins;
+  font-family: 'IBM Plex Sans', sans-serif;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0.3px;
@@ -121,7 +121,7 @@ img {
 }
 
 .description {
-  font-family: Work Sans;
+  font-family: 'Space Grotesk', sans-serif;
   font-size: 14px;
   font-weight: 300;
   line-height: 1.29;
